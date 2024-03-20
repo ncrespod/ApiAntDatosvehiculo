@@ -59,3 +59,16 @@ C:\Users\nicol\Desktop\datosVehiculo\obj\Debug\net6.0\scopedcss\bundle\ApiAntDat
 C:\Users\nicol\Desktop\datosVehiculo\obj\Debug\net6.0\ApiAntDatosvehiculo.dll
 C:\Users\nicol\Desktop\datosVehiculo\obj\Debug\net6.0\refint\ApiAntDatosvehiculo.dll
 C:\Users\nicol\Desktop\datosVehiculo\obj\Debug\net6.0\ApiAntDatosvehiculo.pdb
+C:\Users\nicol\Desktop\datosVehiculo\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\nicol\Desktop\datosVehiculo\bin\Debug\net6.0\appsettings.json
+C:\Users\nicol\Desktop\datosVehiculo\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+C:\Users\nicol\Desktop\datosVehiculo\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+C:\Users\nicol\Desktop\datosVehiculo\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\nicol\Desktop\datosVehiculo\bin\Debug\net6.0\ApiAntDatosvehiculo.exe
+C:\Users\nicol\Desktop\datosVehiculo\bin\Debug\net6.0\ApiAntDatosvehiculo.deps.json
+C:\Users\nicol\Desktop\datosVehiculo\bin\Debug\net6.0\ApiAntDatosvehiculo.runtimeconfig.json
+C:\Users\nicol\Desktop\datosVehiculo\bin\Debug\net6.0\ApiAntDatosvehiculo.dll
+C:\Users\nicol\Desktop\datosVehiculo\bin\Debug\net6.0\ApiAntDatosvehiculo.pdb
+C:\Users\nicol\Desktop\datosVehiculo\obj\Debug\net6.0\ApiAntDatosvehiculo.csproj.CopyComplete
+C:\Users\nicol\Desktop\datosVehiculo\obj\Debug\net6.0\ApiAntDatosvehiculo.genruntimeconfig.cache
+C:\Users\nicol\Desktop\datosVehiculo\obj\Debug\net6.0\ref\ApiAntDatosvehiculo.dll
